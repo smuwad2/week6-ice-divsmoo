@@ -13,5 +13,5 @@
 <template>
 
     <!-- add code here -->
-   
+    <img :src="myImg" alt="me" />
 </template>
